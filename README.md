@@ -1,37 +1,51 @@
-# Luke Okagha — AI Systems Engineer Portfolio
+# Luke Okagha — AI Systems Engineer | Backend & Agentic Automation
 
-**Positioning:** AI Systems Engineer | Backend & Agentic Automation
+I build AI systems that connect LLMs and agents to APIs, data and real business workflows.
 
-I build AI systems that connect LLMs and agents to APIs, data and real business workflows. My engineering focus combines backend development, software architecture, debugging, cloud infrastructure and AI-assisted engineering.
+**Focus:** Agentic AI · Backend Systems · LLMs · MCP · Python · TypeScript · Cloud · System Design · Automation
 
-## Featured proof of work
-
-- **[ColdRunners](https://github.com/lukewealth/coldrunner)** — agentic AI workflows, orchestration, MCP and backend systems
-- **EasyReach** — AI-powered CRM and customer automation
-- **MintJara** — creator platform and product engineering
-- **[Cherokee Bank](https://github.com/lukewealth/CherokeeBankwebapp)** — backend and fintech engineering
-
-Also: [CloudWeaver](https://github.com/lukewealth/CloudWeaver) (multi-agent cloud orchestration) · [ThePoet](https://github.com/lukewealth/ThePoet) (multi-agent orchestration experiment)
-
-## Core skills
-
-Python · TypeScript · Node.js · React · Next.js · PostgreSQL · MongoDB · Redis · Docker · Kubernetes · AWS · GCP · LLMs · RAG · AI Agents · MCP · APIs · System Design
-
-The profile is intentionally concise and designed for recruiters, engineering managers and technical collaborators who need to understand specialization and evidence quickly.
-
-- Website: https://lukeokagha.com
-- GitHub: https://github.com/lukewealth
-- LinkedIn: https://linkedin.com/in/lukeokagha
-- TRICODE PRO: https://tricode.pro
+Remote-ready · Based in Nigeria · Open to worldwide remote roles that accept international candidates  
+[lukeokagha.com](https://lukeokagha.com) · [tricode.pro](https://tricode.pro) · [LinkedIn](https://linkedin.com/in/lukeokagha)
 
 ---
 
-### Engineering principles
+### Engineering focus
 
-I use AI as an engineering multiplier while personally owning architecture, technical decisions, debugging, validation, testing, security, reliability and production quality.
+I build reliable backend and agentic systems that connect models to tools, data and real workflows.
 
-**Remote-ready** · Based in Nigeria · Open to worldwide remote roles that accept international candidates
+- **Agentic systems** — multi-agent orchestration, planners, specialist agents, tool execution, MCP
+- **Backend & APIs** — Node.js, TypeScript, Python, REST / service architecture, databases
+- **LLM integration** — pipelines, RAG patterns, evaluation, graceful degradation
+- **Infrastructure** — Docker, Kubernetes concepts, cloud-native deployment
+- **Reliability** — debugging, failure handling, validation, production quality
+
+I use AI as an engineering multiplier while personally owning architecture, technical decisions, debugging, testing, security and reliability.
+
+---
+
+### Selected work
+
+| Project | Role / problem | Stack |
+| --- | --- | --- |
+| [ColdRunners](https://github.com/lukewealth/coldrunner) | Multi-agent business intelligence — planner, specialists, MCP tools | TypeScript, Express, React, MCP |
+| EasyReach | AI outbound calling & outreach agents | TypeScript, Speech AI, NLP |
+| [CloudWeaver](https://github.com/lukewealth/CloudWeaver) | Multi-agent cloud infrastructure orchestration | Python |
+| [Cherokee Bank](https://github.com/lukewealth/CherokeeBankwebapp) | Digital banking web platform | TypeScript, Next.js |
+| SafeAlert | Emergency SOS + live tracking (web + mobile) | TypeScript |
+| MintJara | Creator / tokenization product engineering | TypeScript, AI assistance |
+
+Secondary experience (not primary positioning): DeFi / smart contracts (LockUP, Sui/Move).
+
+---
 
 ### Searchable skills
 
-`ai-systems` `agentic-ai` `ai-agents` `mcp` `llm` `backend` `typescript` `python` `nodejs` `react` `nextjs` `api-design` `system-design` `automation` `docker` `kubernetes` `software-architecture` `rag` `workflow-orchestration`
+`ai-systems` `agentic-ai` `ai-agents` `mcp` `llm` `backend` `typescript` `python` `nodejs` `express` `react` `nextjs` `api-design` `system-design` `automation` `docker` `kubernetes` `software-architecture` `rag` `workflow-orchestration`
+
+---
+
+### Availability
+
+Open to senior **AI Systems**, **AI Platform**, **Applied AI**, **Agentic AI**, and **Senior Backend** roles (contract or full-time). Worldwide remote; international candidates welcome.
+
+→ [lukeokagha.com](https://lukeokagha.com)
