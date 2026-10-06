@@ -1,49 +1,49 @@
-# Luke Okagha — Backend Software Engineer & Technical Product Manager
+# Luke Okagha — AI Systems Engineer | Backend & Agentic Automation
 
-**Backend engineer · AI agent development · DeFi / blockchain · React Native · Node.js · Python**
+I build AI systems that connect LLMs and agents to APIs, data and real business workflows.
 
-Remote-ready · Nigeria & Canada  
-[lukeokagha.com](https://lukeokagha.com) · [tricode.pro](https://tricode.pro) · [LinkedIn](https://ng.linkedin.com/in/luke-okagha)
+**Focus:** Agentic AI · Backend Systems · LLMs · MCP · Python · TypeScript · Cloud · System Design · Automation
+
+Remote-ready · Based in Nigeria · Open to worldwide remote roles that accept international candidates  
+[lukeokagha.com](https://lukeokagha.com) · [LinkedIn](https://ng.linkedin.com/in/luke-okagha)
 
 ---
 
 ### Engineering focus
 
-I build production backend systems, AI agents, DeFi apps, and React Native products.
+- **Agentic systems** — multi-agent orchestration, planners, specialist agents, tool execution, MCP
+- **Backend & APIs** — Node.js, TypeScript, Python, REST / service architecture, databases
+- **LLM integration** — pipelines, RAG patterns, evaluation, graceful degradation
+- **Infrastructure** — Docker, Kubernetes concepts, cloud-native deployment
+- **Reliability** — debugging, failure handling, validation, production quality
 
-- **Backend & APIs** — Node.js, TypeScript, Python, MongoDB, REST / service architecture
-- **AI engineering** — LLM pipelines, AI agents, RAG, speech/NLP integrations (EasyReach)
-- **Blockchain / Web3** — Solidity, Move, Sui SDK, Web3.js, P2P DeFi (LockUP)
-- **Mobile & web** — React Native, React, Next.js, TypeScript
-- **Infrastructure** — Docker, Kubernetes, cloud-native deployment
+I use AI as an engineering multiplier while personally owning architecture, technical decisions, debugging, testing, security and reliability.
 
 ---
 
 ### Selected work
 
-| Project | Role / problem | Stack |
-|---------|----------------|-------|
-| [LockUP](https://www.lockup.finance) | P2P cross-border DeFi app | Solidity, Move, Web3 |
-| [EasyReach](https://www.easyreach.space) | AI outbound calling & outreach agents | TypeScript, Speech AI, NLP |
-| CloudWeaver | Multi-agent cloud infrastructure orchestrator | Python |
-| Cherokee Bank | Digital banking web/mobile platform | TypeScript, React Native |
-| SafeAlert | Emergency SOS + live tracking (web + mobile) | TypeScript, HTML |
-| MintJara | Tokenization on Sui | TypeScript, Sui, Gemini AI |
+| Project | What it does | Stack / focus |
+|---------|--------------|---------------|
+| [ColdRunners](https://github.com/lukewealth/coldrunner) | Multi-agent business intelligence (planner + specialists + MCP) | TypeScript, Express, React, MCP, plugins |
+| [CloudWeaver](https://github.com/lukewealth/CloudWeaver) | Multi-agent cloud infrastructure orchestration | Python, FastAPI, agents |
+| [ThePoet](https://github.com/lukewealth/ThePoet) | Multi-agent orchestration experiment | TypeScript, task routing, LLM providers |
+| EasyReach | AI-powered outreach agents (voice, messaging, CRM workflows) | TypeScript, speech/NLP, APIs |
+| Cherokee Bank | Digital banking web platform | TypeScript, Next.js, fintech |
+| SafeAlert | Emergency SOS + live tracking (web + mobile) | TypeScript, real-time |
+
+Secondary experience: DeFi / smart contracts (LockUP, Sui/Move) — not the primary focus.
 
 ---
 
 ### Searchable skills
 
-`backend` `software engineer` `technical product manager` `python` `node.js` `typescript` `javascript`  
-`react` `next.js` `react native` `mobile app development` `full stack`  
-`solidity` `move` `web3` `defi` `sui` `blockchain`  
-`ai agents` `llm` `rag` `openai` `automation`  
-`docker` `kubernetes` `mongodb` `fintech`
+`ai-systems` `agentic-ai` `ai-agents` `mcp` `llm` `backend` `typescript` `python` `nodejs` `express` `react` `api-design` `system-design` `automation` `docker` `kubernetes` `software-architecture` `rag` `workflow-orchestration`
 
 ---
 
 ### Availability
 
-Open to contract and freelance engineering work: backend systems, AI agent development, DeFi / smart contracts, React Native, and full-stack TypeScript.
+Open to senior AI Systems Engineering, AI Platform, Applied AI, Agentic AI, and Senior Backend roles (contract or full-time, worldwide remote, international candidates welcome).
 
 → [lukeokagha.com](https://lukeokagha.com)
